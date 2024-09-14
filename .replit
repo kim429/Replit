@@ -1,7 +1,7 @@
 modules = ["python-3.12"]
-run = "python 2743.py"
+run = "python 2976b.py"
 [nix]
 channel = "stable-24_05"
 
 [deployment]
-run = ["sh", "-c", "python 2743.py"]
+run = ["sh", "-c", "python 2976b.py"]
